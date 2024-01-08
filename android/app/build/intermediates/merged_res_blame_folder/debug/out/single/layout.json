@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\abhay\\OneDrive\\Desktop\\examples\\lite\\examples\\object_detection\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_camera.xml",
+        "source": "C:\\Users\\abhay\\OneDrive\\Desktop\\examples\\lite\\examples\\object_detection\\android\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\abhay\\OneDrive\\Desktop\\examples\\lite\\examples\\object_detection\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\abhay\\OneDrive\\Desktop\\examples\\lite\\examples\\object_detection\\android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\abhay\\OneDrive\\Desktop\\examples\\lite\\examples\\object_detection\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\info_bottom_sheet.xml",
+        "source": "C:\\Users\\abhay\\OneDrive\\Desktop\\examples\\lite\\examples\\object_detection\\android\\app\\src\\main\\res\\layout\\info_bottom_sheet.xml"
+    }
+]
