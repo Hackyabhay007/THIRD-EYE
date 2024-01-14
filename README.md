@@ -29,7 +29,7 @@ Follow these steps to install the app:
 
 ## Support and Feedback
 
-For support or feedback, please contact our support team at support@example.com or visit our community forum at [link to forum].
+For support or feedback, please contact our support team at hackyabhay@gmail.com or visit our community forum at [link to forum].
 
 ## Contributing
 
